@@ -7,6 +7,8 @@
 </div>
 
 ## Hey, i am arnsfh 👋
+# C++, JavaScript Developer
+# I like remaking Discord Bots
 
 ```cpp
 #include <iostream>
