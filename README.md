@@ -7,7 +7,7 @@
 </div>
 
 ## Hey, i am arnsfh 👋
-C++, JavaScript Developer
+C++, JavaScript Developer\n
 I like remaking Discord Bots
 
 ```cpp
