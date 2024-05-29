@@ -22,3 +22,8 @@ int main()
   return 0;
 }
 ```
+<div align="center">
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/868189047271612426?theme=dark&bg=&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Working%20on%20another%20ambitious%20project!)](https://discord.com/users/674294528915800074)
+
+</div>
