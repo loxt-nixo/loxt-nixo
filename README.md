@@ -1,7 +1,7 @@
-<div>
 # 💫 About Me:
-# Hey, i am arnsfh 👋<br>## C++, JavaScript Developer<br>## I like remaking Discord Bots<br><br>
-</div>
+# Hey, i am arnsfh 👋
+## C++, JavaScript Developer
+## I like remaking Discord Bots
 
 ```cpp
 #include <iostream>
